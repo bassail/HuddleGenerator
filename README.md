@@ -1,5 +1,7 @@
 # 🥏 Générateur de Discours - Ultimate Frisbee
 
+⚠️ Cette application a été totalement vibecodée.
+
 Une application web simple et moderne pour générer des discours motivants pour vos matches d'Ultimate Frisbee.
 
 ## ✨ Caractéristiques
@@ -85,6 +87,4 @@ L'application est entièrement responsive et s'adapte aux :
 Libre d'utilisation
 
 ---
-
-**Bonne chance pour votre prochain match! 🌟**
 
